@@ -41,7 +41,7 @@
             android:key="notification_wallpaper_alpha"
             android:title="@string/notif_wallpaper_alpha_title" />
 
-        <com.xylon.settings.widgets.SeekBarPreference
+        <com.orca.settings.widgets.SeekBarPreference
             android:key="navigation_bar_alpha"
             android:title="@string/navigation_bar_alpha_title" />
 

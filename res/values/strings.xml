@@ -12,7 +12,7 @@
     <string name="clock">Clock</string>
     <string name="signal">Signal</string>
     <string name="quick_toggles">Quick Toggles</string>
-    <string name="others">Others</string>
+    <string name="others">Battery</string>
     <string name="navigation_bar">Navigation Bar</string>
     <string name="power_menu">Power Menu</string>
     <string name="tools">Tools</string>
@@ -35,7 +35,7 @@
     <string name="header_summary_clock">@null</string>
     <string name="header_summary_signal">@null</string>
     <string name="header_summary_toggles">@null</string>
-    <string name="header_summary_statusbar">Battery and colors...</string>
+    <string name="header_summary_statusbar">@null</string>
 
     <!-- Menu Strings -->
     <string name="menu_nav_bar_reset">Reset nav bar</string>

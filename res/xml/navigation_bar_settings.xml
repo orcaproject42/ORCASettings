@@ -70,11 +70,11 @@
             android:title="@string/navbar_width_help_title"
             android:summary="@string/navbar_width_help_summary" />
 
-        <com.xylon.settings.widgets.SeekBarPreference
+        <com.orca.settings.widgets.SeekBarPreference
             android:key="width_port"
             android:title="@string/width_port_title" />
 
-        <com.xylon.settings.widgets.SeekBarPreference
+        <com.orca.settings.widgets.SeekBarPreference
             android:key="width_land"
             android:title="@string/width_land_title" />
 
@@ -104,7 +104,7 @@
                 android:title="@string/navigation_bar_menu_arrow_keys_title"
                 android:summary="@string/navigation_bar_menu_arrow_keys_summary" />
 
-        <com.xylon.settings.widgets.SeekBarPreference
+        <com.orca.settings.widgets.SeekBarPreference
                 android:key="button_transparency"
                 android:title="@string/button_transparency_title" />
 
