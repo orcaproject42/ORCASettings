@@ -50,7 +50,7 @@
         android:id="@+id/statusbar"
         android:fragment="com.orca.settings.fragments.StatusBar"
         android:title="@string/others"
-        android:icon="@drawable/ic_rom_control_battery"
+        android:icon="@drawable/ic_settings_statusbar"
         android:summary="@string/header_summary_statusbar" />
 
 </preference-headers>

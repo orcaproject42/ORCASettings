@@ -99,15 +99,14 @@
     <string name="title_clock_shortclick">Clock short click actions</string>
 
     <!-- Battery style -->
-    <string name="battery_icon_title">Icon Style</string>
-    <string name="icon_only">Icon only</string>
-    <string name="text_only">Text only</string>
-    <string name="icon_w_text">Icon with text</string>
-    <string name="icon_w_center_text">Icon with centered text</string>
-    <string name="circlemod">CircleMOD</string>
-    <string name="circle_battery">CM Circle</string>
-    <string name="circle_battery_w_percent">CM Circle w/ percent</string>
-    <string name="circle_dotted_w_percent">CM Dotted w/ percent</string>
+    <string name="battery_icon_title">Battery Style</string>
+    <string name="icon_only">Icon (No Text)</string>
+    <string name="text_only">Text (No Icon)</string>
+    <string name="icon_w_text">Icon (Offset Text)</string>
+    <string name="icon_w_center_text">Icon (Center Text)</string>
+    <string name="circle_battery">Circle (No %)</string>
+    <string name="circle_battery_w_percent">Circle (With % No Dotted)</string>
+    <string name="circle_dotted_w_percent">Circle (With % + Dotted)</string>
     <string name="hide">Hide</string>
     <string name="circle_battery_color">Circle color</string>
     <string name="circle_battery_text_color">Circle text color</string>
@@ -130,11 +129,11 @@
 
     <!-- Statusbar | Signal -->
     <string name="signal_style">Signal text style</string>
-    <string name="signal_color_title">Signal color</string>
+    <string name="signal_color_title">Signal text color</string>
     <string name="hide_signal_title">Hide signal bars</string>
     <string name="hide_signal_summary">Updates when signal strength changes</string>
     <string name="wifi_signal_style">Wi-Fi Signal text style</string>
-    <string name="wifi_signal_color_title">Wi-Fi Signal color</string>
+    <string name="wifi_signal_color_title">Wi-Fi Signal text color</string>
     <string name="alt_signal_title">Alt signal layout</string>
     <string name="alt_signal_summary">Use alternate (GB style) signal cluster</string>
 
@@ -167,6 +166,7 @@
     <string name="toggle_sync">Sync</string>
     <string name="toggle_torch">Torch</string>
     <string name="toggle_2g">2G</string>
+    <string name="toggle_3g">3G</string>
     <string name="toggle_usb_tether">USB Tether</string>
     <string name="toggle_vibrate">Vibrate</string>
     <string name="toggle_wifi_tether">Wifi Tether</string>
@@ -180,6 +180,7 @@
     <string name="toggle_battery">Battery</string>
     <string name="toggle_brightness">Brightness</string>
     <string name="toggle_screen">Screen off</string>
+    <string name="toggle_powermenu">Power Menu</string>
     <string name="toggle_sound_state">Ring/Vib/Silent</string>
 
     <string name="toggle_default_entries">USER|BRIGHTNESS|SETTINGS|WIFI|SIGNAL|ROTATE|BATTERY|AIRPLANE_MODE|BLUETOOTH|SCREEN</string>
